@@ -1,11 +1,7 @@
 # 人臉照片屬於個人資料，不上傳 GitHub
-data/*/*.jpg
-data/*/*.jpeg
-data/*/*.png
-
-# 訓練產出的模型（可由 train_lbph.py 重新產生）
-models/*.yml
-models/*.json
+   git add .
+   git commit -m "Add face samples and trained model"
+   git push
 
 # Python / 編輯器
 __pycache__/
